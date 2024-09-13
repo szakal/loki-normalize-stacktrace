@@ -11,7 +11,7 @@
 (function() {
     'use strict';
 
-    console.log("Tampermonkey script started: Grafana Loki Log Formatter with Original Stacktrace Preservation");
+    console.log("Tampermonkey script started: Grafana Loki Log Formatter with Original Stacktrace Preservation.");
 
     // Function to format stack traces with HTML <br> and indentation
     function formatStackTrace(stackTrace) {
