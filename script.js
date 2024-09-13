@@ -4,7 +4,6 @@
 // @version      1.3
 // @description  Add a button to normalize stack traces in Grafana Loki with original stacktrace preservation
 // @author       Your Name
-// @match        */grafana/*
 // @grant        none
 // ==/UserScript==
 
